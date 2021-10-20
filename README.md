@@ -2,7 +2,7 @@
 # Author - Adam Peters.
 
 ### Source code | StockPredictor.ipynb 
-### Executable   | StockPredictor.exe
+### Executable | StockPredictor.exe
 
  -----------------------------I DO NOT PERMIT COPY OR USAGE OF THIS CODE/PROJECT WITHOUT PERMISSION FROM ME------------------------
  
