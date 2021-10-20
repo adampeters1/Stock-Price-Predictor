@@ -1,7 +1,10 @@
 # LSTM Stock Price Predictor.
 # Author - Adam Peters.
- 
- --------------------------------------------------I DO NOT PERMIT COPY OR USAGE OF THIS CODE/PROJECT WITHOUT PERMISSION FROM ME--------------------------------------------------
+
+## Source code | StockPredictor.ipynb 
+## Executable | StockPredictor.exe
+
+ -----------------------------I DO NOT PERMIT COPY OR USAGE OF THIS CODE/PROJECT WITHOUT PERMISSION FROM ME------------------------
  
  This is a LSTM Machine Learning stock price predictor + GUI, built as a final year project by only me.
  
