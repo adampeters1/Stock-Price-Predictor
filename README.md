@@ -1,8 +1,9 @@
 # LSTM Stock Price Predictor.
 # Author - Adam Peters.
 
-### Source code | StockPredictor.ipynb 
-### Executable | StockPredictor.exe
+### Source code | Python 3 | StockPredictor.py
+### Source code | Jupyter notebook | StockPredictor.ipynb
+### Executable | Use JupyterNB convert in terminal with either source code.
 
  -----------------------------I DO NOT PERMIT COPY OR USAGE OF THIS CODE/PROJECT WITHOUT PERMISSION FROM ME------------------------
  
